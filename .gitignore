@@ -5,6 +5,7 @@
 *.pdf
 *.psd
 *.sublime*
+prepros-6.config
 build/
 node_modules/
 npm-debug.log*
